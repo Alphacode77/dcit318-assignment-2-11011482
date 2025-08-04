@@ -1,0 +1,43 @@
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\refint\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\Inheritance and Method Overriding\AnimalInheritance\obj\Debug\net8.0\ref\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\refint\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\AnimalInheritance\obj\Debug\net8.0\ref\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\bin\Debug\net8.0\AnimalInheritance.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\bin\Debug\net8.0\AnimalInheritance.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\bin\Debug\net8.0\AnimalInheritance.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\bin\Debug\net8.0\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\bin\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\refint\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\ref\AnimalInheritance.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment-2-11011482\InheritanceandMethodOverriding\obj\Debug\net8.0\AnimalInheritance.sourcelink.json
