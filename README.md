@@ -56,7 +56,7 @@ This repository contains comprehensive demonstrations of key Object-Oriented Pro
 - Polymorphism through interface types
 - Clean interface design
 
-**[View Documentation](./Interfaces/README.md)** | **[ View Code](./Interfaces/Program.cs)**
+**[View Documentation](./Interfaces/README.md)** | **[View Code](./Interfaces/Program.cs)**
 
 ---
 
@@ -84,7 +84,7 @@ dotnet build
 dotnet run
 ```
 
-##  Learning Objectives
+## Learning Objectives
 
 This assignment covers the following OOP concepts:
 
